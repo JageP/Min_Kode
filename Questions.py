@@ -4,7 +4,7 @@ names_list = ["Nigel", "Fartman 5000", "BO Boy", "Queefqueen"]
 
 ages_list = ["320", "412", "900"]
 
-genders_list = ["Pansexual Monkeykin", "One of those tranny things", "Demi-Queer Hedgehog-kin Slugfiend"]
+genders_list = ["1", "2", "3"]
 
 name = input("What is your name?")
 
