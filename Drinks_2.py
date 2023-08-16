@@ -17,5 +17,5 @@ else:drink_selection = input("Fine, please leave.")
 
 
 if drink_selection_UC in drinks:
-    print("\n\nHere is your", drink_selection_UC, "don't let it dribble down your face like in the porno's!")
+    print("\n\nHere is your", drink_selection_UC, "don't let it dribble down your face!")
 else:print("We don't serve THAT filth here, we do serve other filth though")
